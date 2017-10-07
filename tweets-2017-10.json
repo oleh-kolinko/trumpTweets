@@ -2,12 +2,13 @@
 	{
 		"__v": 0,
 		"receipt": {
-			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"bccec19696c01a1bf080e52a3b517b8f441145e541ef2b47b922606e11a43d86\",\"merkleRoot\":\"7bd9fa79ed7109df5aaf1fa66843391d35b67f94de0c3e90ae5491ff389ad824\",\"proof\":[{\"left\":\"aa0c734c1639511e46aef06b6870ad0854502f50a2fb40b44f57f04eed6467b8\"},{\"left\":\"9b365f21a43185c250884342d77a24d3a3a6ddd9b8fc77e018d8eb02f02e6173\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"99875aad2b0b973a9529f855f625cc1ff940cfb4879de15058acdfb1e46d3dbe\"}]}"
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"63eb296e4f70cb1e638b12bfd2eb5a1a9809891db08d7d05eb1d09693ad4fc69\",\"merkleRoot\":\"e37bf289e629e76cbbb21773b53bc5f8009becf454fd46e64aa0309c7f0cf8d9\",\"proof\":[{\"left\":\"b248ec18b885a8d19763e495943721427c9a46946c09c391f0e037f0038b1354\"},{\"left\":\"c3a6a269fc9d25a8be9ddbd173c72ec6552900864e44287b80ee8de28db2a0e2\"},{\"left\":\"9b5d11552f4a774c93bdd0e25a1c8ac6d847c4231dc3b411bc87818becd7dc96\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"0b75a4c2547304d4efa4db68dd4b9c5c92c3eb6b932ddd98e1629a8cee874bd0\"}]}"
 		},
 		"originalContent": {
-			"created_at": "Sat Oct 07 22:52:36 +0000 2017",
+			"screen_name": "OlehK_test",
+			"created_at": "Sat Oct 07 23:11:37 +0000 2017",
 			"text": "This is an example tweet record. The original tweet will be located here."
 		},
-		"_id": "59d95c7d2d2712071e0427ca"
+		"_id": "59d9612cbf22ef0a4d424287"
 	}
 ]
