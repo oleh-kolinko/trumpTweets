@@ -1,10 +1,13 @@
 [
 	{
-		"text": "Test 1",
-		"created_at": "Sat Oct 07 22:10:57 +0000 2017"
-	},
-	{
-		"text": "Test 2",
-		"created_at": "Sat Oct 07 22:11:03 +0000 2017"
+		"__v": 0,
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"bccec19696c01a1bf080e52a3b517b8f441145e541ef2b47b922606e11a43d86\",\"merkleRoot\":\"7bd9fa79ed7109df5aaf1fa66843391d35b67f94de0c3e90ae5491ff389ad824\",\"proof\":[{\"left\":\"aa0c734c1639511e46aef06b6870ad0854502f50a2fb40b44f57f04eed6467b8\"},{\"left\":\"9b365f21a43185c250884342d77a24d3a3a6ddd9b8fc77e018d8eb02f02e6173\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"99875aad2b0b973a9529f855f625cc1ff940cfb4879de15058acdfb1e46d3dbe\"}]}"
+		},
+		"originalContent": {
+			"created_at": "Sat Oct 07 22:52:36 +0000 2017",
+			"text": "This is an example tweet record. The original tweet will be located here."
+		},
+		"_id": "59d95c7d2d2712071e0427ca"
 	}
 ]
