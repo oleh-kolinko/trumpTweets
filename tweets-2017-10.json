@@ -18,5 +18,15 @@
 			"created_at": "Sat Oct 07 23:26:35 +0000 2017",
 			"screen_name": "OlehK_test"
 		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"0dd2db1574dc55ec59c95e577c40a4ed1168a3b5fd46b006c73ba6327934fcc8\",\"merkleRoot\":\"2d5254c759a0a12b306e95c3e13251beda8ec926aeb1e3b4a6b8c23ce8a99cf3\",\"proof\":[{\"right\":\"d1682ad3b3788812b3abec6bdcb83d9a54ce3ea17f79b065f409ee22277d6c08\"},{\"right\":\"ccd713bc5efdf6aedc4c8355596298367fda5ca0deb7d42b8a4f83b425b19041\"},{\"right\":\"95cc456645f491cd35eab1479f6c7f645506fdda84572c4af824d22cd5812af9\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"ada09fc3a911f8c3b90a562d88baacbcafa0647b9342371d4debe08052e8f4d6\"}]}"
+		},
+		"originalContent": {
+			"text": "This is an example Twitter Record. The original text of the tweet will go here.",
+			"created_at": "Sun Oct 08 00:19:09 +0000 2017",
+			"screen_name": "OlehK_test"
+		}
 	}
 ]
