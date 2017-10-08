@@ -1,31 +1,11 @@
 [
 	{
 		"receipt": {
-			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"5b1512756466e79468d712cfb5923d011efbc2e39be3a1af818e8ad8eb6a8111\",\"merkleRoot\":\"e446d3799764f217e53109c2813773cf1a29921fe326318e19d4b9f9d16e609f\",\"proof\":[{\"left\":\"c5721b595e07372e32c38cea50c85da457cc1b5aa3fcefdf179819b8bcae1f53\"},{\"left\":\"63d9bfce47a85fd054c61a5db6ed5779bd6412ec918464f94c3fe655b4c5d0b0\"},{\"right\":\"4f29d6defd0f07cd5aabb3284fee85f7b44c0a1ade394c3f997abb8f28b925f0\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"0c782af2d54a7275f1c1a67f7e0bbd905c04d5958e233455f4e332f1a0d75693\"}]}"
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"288442e8a763abf34df1ceee2a7622013c50ab2e62384da5f5619051424edff7\",\"merkleRoot\":\"b6ee87998ef5b2c8e7d6115a417a2ea551a48f594b92f896fce2b61d5f66292c\",\"proof\":[{\"left\":\"b812476155ce7ffac529b5d4cab78b340632f1784431e55737d5a7da7f6ad23f\"},{\"left\":\"67624bbde0628da9c05020afe98609958d622cd955a6348988b1f181f6b7ff4e\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"9a277cda3dbf0268e8ce78f88237c5514f328f095073f4545847c2f60d957c1b\"}]}"
 		},
 		"originalContent": {
-			"text": "This is an example tweet record. The original tweet will be located here.",
-			"created_at": "Sat Oct 07 23:26:20 +0000 2017",
-			"screen_name": "OlehK_test"
-		}
-	},
-	{
-		"receipt": {
-			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"c5721b595e07372e32c38cea50c85da457cc1b5aa3fcefdf179819b8bcae1f53\",\"merkleRoot\":\"e446d3799764f217e53109c2813773cf1a29921fe326318e19d4b9f9d16e609f\",\"proof\":[{\"right\":\"5b1512756466e79468d712cfb5923d011efbc2e39be3a1af818e8ad8eb6a8111\"},{\"left\":\"63d9bfce47a85fd054c61a5db6ed5779bd6412ec918464f94c3fe655b4c5d0b0\"},{\"right\":\"4f29d6defd0f07cd5aabb3284fee85f7b44c0a1ade394c3f997abb8f28b925f0\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"0c782af2d54a7275f1c1a67f7e0bbd905c04d5958e233455f4e332f1a0d75693\"}]}"
-		},
-		"originalContent": {
-			"text": "Test 1",
-			"created_at": "Sat Oct 07 23:26:35 +0000 2017",
-			"screen_name": "OlehK_test"
-		}
-	},
-	{
-		"receipt": {
-			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"0dd2db1574dc55ec59c95e577c40a4ed1168a3b5fd46b006c73ba6327934fcc8\",\"merkleRoot\":\"2d5254c759a0a12b306e95c3e13251beda8ec926aeb1e3b4a6b8c23ce8a99cf3\",\"proof\":[{\"right\":\"d1682ad3b3788812b3abec6bdcb83d9a54ce3ea17f79b065f409ee22277d6c08\"},{\"right\":\"ccd713bc5efdf6aedc4c8355596298367fda5ca0deb7d42b8a4f83b425b19041\"},{\"right\":\"95cc456645f491cd35eab1479f6c7f645506fdda84572c4af824d22cd5812af9\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"ada09fc3a911f8c3b90a562d88baacbcafa0647b9342371d4debe08052e8f4d6\"}]}"
-		},
-		"originalContent": {
-			"text": "This is an example Twitter Record. The original text of the tweet will go here.",
-			"created_at": "Sun Oct 08 00:19:09 +0000 2017",
+			"text": "This is an example of a Twitter Record. The original text of the tweet will go here.\"",
+			"created_at": "Sun Oct 08 01:23:06 +0000 2017",
 			"screen_name": "OlehK_test"
 		}
 	}
